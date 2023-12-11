@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './cuisine-tabs-component.component.html',
   styleUrl: './cuisine-tabs-component.component.scss'
 })
-export class CuisineTabsComponentComponent {
+export class CuisineTabsComponent {
 
 }

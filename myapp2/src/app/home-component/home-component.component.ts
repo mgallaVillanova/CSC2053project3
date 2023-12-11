@@ -1,5 +1,4 @@
-import { Component } from '@angular/core';
-import { RECIPES } from './recipes'; 
+import { RECIPES } from '../recipes'; 
 import { Component, OnInit } from '@angular/core';
 
 export class HomeComponent implements OnInit {
